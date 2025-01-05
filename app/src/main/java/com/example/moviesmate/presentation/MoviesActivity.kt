@@ -15,6 +15,6 @@ class MoviesActivity : AppCompatActivity() {
         binding = ActivityMoviesBinding.inflate(layoutInflater)
         setContentView(binding.root)
         println("First successfully merging")
-
+        println("Second upMerging attempt!!!")
     }
 }
