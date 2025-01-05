@@ -1,0 +1,10 @@
+package com.example.moviesmate.presentation.screens.login_page
+
+import com.example.moviesmate.databinding.FragmentLoginBinding
+import com.example.moviesmate.presentation.screens.BaseFragment
+
+class LoginFragment : BaseFragment<FragmentLoginBinding>(FragmentLoginBinding::inflate) {
+    override fun setUp() {
+        TODO("Not yet implemented")
+    }
+}
