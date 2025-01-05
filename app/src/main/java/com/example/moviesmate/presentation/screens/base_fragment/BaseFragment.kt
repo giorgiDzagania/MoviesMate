@@ -27,7 +27,6 @@ abstract class BaseFragment<VB: ViewBinding>(private val inflate: Inflater<VB>):
         setUp()
     }
 
-
     abstract fun setUp()
 
     override fun onDestroy() {
