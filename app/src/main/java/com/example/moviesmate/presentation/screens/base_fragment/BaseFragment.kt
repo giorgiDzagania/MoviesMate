@@ -1,4 +1,4 @@
-package com.example.moviesmate.presentation.screens
+package com.example.moviesmate.presentation.screens.base_fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
