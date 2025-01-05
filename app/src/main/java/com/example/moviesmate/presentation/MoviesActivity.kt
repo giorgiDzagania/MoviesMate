@@ -14,5 +14,6 @@ class MoviesActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMoviesBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        println("First successfully merging")
     }
 }
